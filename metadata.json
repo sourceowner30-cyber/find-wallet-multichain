@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Sentinel - Multi-Chain Wallet Scanner",
+  "description": "A high-performance simulation tool for multi-chain wallet address scanning, mnemonic generation (BIP-39), and balance discovery across various blockchains.",
+  "requestFramePermissions": []
+}
